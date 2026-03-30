@@ -11,5 +11,5 @@ void reference::set_attributes()
 
 void reference::processing()
 {
-    ref.write(45.0);
+    ref.write(35.0);
 }
