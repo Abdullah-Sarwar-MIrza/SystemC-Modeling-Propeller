@@ -1,0 +1,64 @@
+{
+  "configurations": [
+    {
+      "name": "SystemC & SystemC-AMS",
+      "includePath": [
+        "${workspaceFolder}",
+        "D:/UAV LAB JOB/Systemc/systemc-3.0.2/src",
+        "D:/UAV LAB JOB/Systemc/systemc-ams-2.3.4/src"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "SC_INCLUDE_DYNAMIC_PROCESSES",
+        "SC_CPLUSPLUS=201703L"
+      ],
+      "compilerPath": "C:/mingw32/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "windowsSdkVersion": "",
+      "configurationProvider": "ms-vscode.cmake-tools"
+    },
+    {
+      "name": "SystemC Only",
+      "includePath": [
+        "${workspaceFolder}",
+        "D:/UAV LAB JOB/Systemc/systemc-3.0.2/src"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "SC_INCLUDE_DYNAMIC_PROCESSES",
+        "SC_CPLUSPLUS=201703L"
+      ],
+      "compilerPath": "C:/mingw32/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "windowsSdkVersion": "",
+      "configurationProvider": "ms-vscode.cmake-tools"
+    },
+    {
+      "name": "SystemC-AMS Only",
+      "includePath": [
+        "${workspaceFolder}",
+        "D:/UAV LAB JOB/Systemc/systemc-ams-2.3.4/src"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/mingw32/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "windowsSdkVersion": "",
+      "configurationProvider": "ms-vscode.cmake-tools"
+    }
+  ],
+  "version": 4
+}
