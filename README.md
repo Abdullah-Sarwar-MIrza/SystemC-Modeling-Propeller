@@ -1,6 +1,3 @@
-Here is a clean `README.md` ready to copy and paste directly:
-
-```markdown
 # SystemC Modeling of a Propeller System
 
 A SystemC-based ESL (Electronic System Level) simulation model designed to simulate and analyze the behavior, timing, and control response of a propeller system.
@@ -73,9 +70,6 @@ gtkwave waveform.vcd
 
 ```
 
----
 
-
-```
 
 ```
